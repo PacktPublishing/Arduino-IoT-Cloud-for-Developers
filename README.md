@@ -45,7 +45,6 @@ With the following software and hardware list you can run all code files present
 | An Arduino IoT Cloud account or a Zapier account | N/A |
 | Amazon Alexa voice assistant | N/A |
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]().
 
 ### Related products
 *  [[Packt]](https://www.packtpub.com/product/architectural-patterns-and-techniques-for-developing-iot-solutions/9781803245492?utm_source=github&utm_medium=repository&utm_campaign=9781803245492) [[Amazon]](https://www.amazon.com/dp/1803245492)
