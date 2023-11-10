@@ -47,9 +47,9 @@ With the following software and hardware list you can run all code files present
 
 
 ### Related products
-*  [[Packt]](https://www.packtpub.com/product/architectural-patterns-and-techniques-for-developing-iot-solutions/9781803245492?utm_source=github&utm_medium=repository&utm_campaign=9781803245492) [[Amazon]](https://www.amazon.com/dp/1803245492)
+* Architectural Patterns and Techniques for Developing IoT Solutions [[Packt]](https://www.packtpub.com/product/architectural-patterns-and-techniques-for-developing-iot-solutions/9781803245492?utm_source=github&utm_medium=repository&utm_campaign=9781803245492) [[Amazon]](https://www.amazon.com/dp/1803245492)
 
-* Wired systems [[Packt]](https://www.packtpub.com/product/building-smart-home-automation-solutions-with-home-assistant/9781801815291?utm_source=github&utm_medium=repository&utm_campaign=9781801815291) [[Amazon]](https://www.amazon.com/dp/1801815291)
+* Building Smart Home Automation Solutions with Home Assistant [[Packt]](https://www.packtpub.com/product/building-smart-home-automation-solutions-with-home-assistant/9781801815291?utm_source=github&utm_medium=repository&utm_campaign=9781801815291) [[Amazon]](https://www.amazon.com/dp/1801815291)
 
 ## Get to Know the Author
 **Muhammad Afzal**
