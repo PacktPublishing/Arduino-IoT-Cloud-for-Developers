@@ -132,7 +132,27 @@ void STHAM(){
 }
 
 
-
+/*
+  Since AirQuality is READ_WRITE variable, onAirQualityChange() is
+  executed every time a new value is received from IoT Cloud.
+*/
+void onAirQualityChange()  {
+  // Add your code here to act upon AirQuality change
+}
+/*
+  Since Temperature is READ_WRITE variable, onTemperatureChange() is
+  executed every time a new value is received from IoT Cloud.
+*/
+void onTemperatureChange()  {
+  // Add your code here to act upon Temperature change
+}
+/*
+  Since Humidity is READ_WRITE variable, onHumidityChange() is
+  executed every time a new value is received from IoT Cloud.
+*/
+void onHumidityChange()  {
+  // Add your code here to act upon Humidity change
+}
 
 
 
